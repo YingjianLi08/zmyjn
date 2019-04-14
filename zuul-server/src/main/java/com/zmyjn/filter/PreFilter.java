@@ -21,7 +21,7 @@ import java.util.Map;
  * @date 2019/03/30
  * @Description pre前置过滤器
  */
-@Component
+//@Component
 public class PreFilter extends ZuulFilter {
 //    @Value("${default.login.prefix}")
     private String defaultLoginPrefix = "/login";

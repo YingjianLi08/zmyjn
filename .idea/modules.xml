@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-core/cloud-core.iml" filepath="$PROJECT_DIR$/cloud-core/cloud-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-server/common-server.iml" filepath="$PROJECT_DIR$/common-server/common-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/redis-server/redis.iml" filepath="$PROJECT_DIR$/redis-server/redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis-server/redis-server.iml" filepath="$PROJECT_DIR$/redis-server/redis-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/system-server/system-server.iml" filepath="$PROJECT_DIR$/system-server/system-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zmyjn.iml" filepath="$PROJECT_DIR$/.idea/zmyjn.iml" />

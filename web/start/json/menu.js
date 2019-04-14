@@ -16,7 +16,30 @@
       ,"title": "主页二"
       ,"jump": "home/homepage2"
     }]
-  }, {
+  },
+    {
+        "name": "system"
+        ,"title": "系统管理"
+        ,"icon": "layui-icon-set"
+        ,"list": [
+            {
+                "name": "user"
+                ,"title": "用户管理"
+                ,"jump": "system/user/list"
+            },
+            {
+                "name": "menu"
+                ,"title": "菜单管理"
+                ,"jump": "system/menu/list"
+            },
+            {
+                "name": "role"
+                ,"title": "角色管理"
+                ,"jump": "system/role/list"
+            }
+            ]
+    },
+    {
     "name": "component"
     ,"title": "组件"
     ,"icon": "layui-icon-component"
